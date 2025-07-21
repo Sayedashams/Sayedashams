@@ -2,7 +2,7 @@
 
 # Hi there 👋 I'm Sayeda Shams!
 
-I'm a beginner in tech, exploring web development and open source. I'm passionate about learning and building small projects.
+I'm an aspiring engineer passionate about turning ideas into working tech. Currently diving into web development, UI/UX design, and hands-on hardware projects. Always excited to learn, build, and collaborate on meaningful work.
 
 ### 🔧 Skills
 - C Progamming, Python, HTML, CSS
