@@ -1,6 +1,4 @@
-## Hi there 👋 I'm Sayeda Shams!
-
-# Hi there 👋 I'm Sayeda Shams!
+# Hi there👋 I'm Sayeda Shams!
 
 I'm an aspiring engineer passionate about turning ideas into working tech. Currently diving into web development, UI/UX design, and hands-on hardware projects. Always excited to learn, build, and collaborate on meaningful work.
 
