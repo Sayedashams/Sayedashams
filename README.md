@@ -17,11 +17,11 @@ I'm an aspiring engineer passionate about turning ideas into working tech. Curre
 - Angular Animations and Cloud Functions
 
  ### 🚀 Projects
-- 🎯 **[Hand Gesture Recognition for Home Automation](https://github.com/Sayedashams/hand-gesture-home-automation)** 
-Control home appliances using OpenCV-based hand gesture recognition combined with Arduino.
+- 🎯 **[Hand Gesture Recognition for Home Automation](https://github.com/Sayedashams/hand-gesture-home-automation)**
+- Control home appliances using OpenCV-based hand gesture recognition combined with Arduino.
 
-- ♿ **[Voice-Controlled Wheelchair](https://github.com/Sayedashams/voice-controlled-wheelchair)** 
-A smart wheelchair navigated by voice commands, built with Arduino, relays, and a voice module.
+- ♿ **[Voice-Controlled Wheelchair](https://github.com/Sayedashams/voice-controlled-wheelchair)**
+- A smart wheelchair navigated by voice commands, built with Arduino, relays, and a voice module.
 
 
 ### 🛠️ Tools and Technologies
