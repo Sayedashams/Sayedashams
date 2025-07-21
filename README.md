@@ -1,4 +1,4 @@
-# Hi there👋 I'm Sayeda Shams!
+                                                                                      # Hi there👋 I'm Sayeda Shams!
 
 I'm an aspiring engineer passionate about turning ideas into working tech. Currently diving into web development, UI/UX design, and hands-on hardware projects. Always excited to learn, build, and collaborate on meaningful work.
 
@@ -13,6 +13,14 @@ I'm an aspiring engineer passionate about turning ideas into working tech. Curre
 - Java, MySQL
 - Next.js, React.js, Reactive native
 - Angular Animations and Cloud Functions
+
+ ### 🚀 Projects
+🎯 Hand Gesture Recognition for Home Automation
+Control home appliances using OpenCV-based hand gesture recognition combined with Arduino.
+
+♿ Voice-Controlled Wheelchair
+A smart wheelchair navigated by voice commands, built with Arduino, relays, and a voice module.
+  
 
 ### 📫 Reach Me
 - Email: sayedashams17@gmai.com
