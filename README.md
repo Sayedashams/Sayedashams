@@ -1,8 +1,10 @@
-<h1 align="center"># Hi there👋 I'm Sayeda Shams!</h1>
+<h1 align="center">Hi there👋 I'm Sayeda Shams!</h1>
 
 <p align="center">
 I'm an aspiring engineer passionate about turning ideas into working tech. Currently diving into web development, UI/UX design, and hands-on hardware projects. Always excited to learn, build, and collaborate on meaningful work.
 </p>
+
+---
 
 ### 🔧 Skills
 - C Progamming, Python, HTML, CSS
@@ -10,19 +12,24 @@ I'm an aspiring engineer passionate about turning ideas into working tech. Curre
 - Figma for UI/UX design
 - Data analysis, Data Visualization, Micosoft PowerBI
 
+---
+
 ### 🌱 Currently Learning
 - GitHub and version control
 - Java, MySQL
 - Next.js, React.js, Reactive native
 - Angular Animations and Cloud Functions
 
+---
+
  ### 🚀 Projects
-- 🎯 **[Hand Gesture Recognition for Home Automation](https://github.com/Sayedashams/hand-gesture-home-automation)**
-Control home appliances using OpenCV-based hand gesture recognition combined with Arduino.
+🎯 **[Hand Gesture Recognition for Home Automation](https://github.com/Sayedashams/hand-gesture-home-automation)**
+- Control home appliances using OpenCV-based hand gesture recognition combined with Arduino.
 
-- ♿ **[Voice-Controlled Wheelchair](https://github.com/Sayedashams/voice-controlled-wheelchair)**
-A smart wheelchair navigated by voice commands, built with Arduino, relays, and a voice module.
+♿ **[Voice-Controlled Wheelchair](https://github.com/Sayedashams/voice-controlled-wheelchair)**
+- A smart wheelchair navigated by voice commands, built with Arduino, relays, and a voice module.
 
+---
 
 ### 🛠️ Tools and Technologies
 <p align="center">
@@ -34,6 +41,12 @@ A smart wheelchair navigated by voice commands, built with Arduino, relays, and 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
 </p>
+
+---
+
+Quick Byte: I can analyze data in Power BI, sketch UI in Canva, debug Python code and still forget what I actually sat down to do 😄
+
+---
 
 ### 📫 Reach Me
 - Email: sayedashams17@gmai.com
