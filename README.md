@@ -44,7 +44,8 @@ I'm an aspiring engineer passionate about turning ideas into working tech. Curre
 
 ---
 
-Quick Byte: I can analyze data in Power BI, sketch UI in Canva, debug Python code and still forget what I actually sat down to do 😄
+### 💥 Quick Byte
+I can analyze data in Power BI, sketch UI in Canva or Figma, debug Python code and still forget what I actually sat down to do 😄
 
 ---
 
