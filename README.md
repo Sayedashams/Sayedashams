@@ -7,7 +7,8 @@ I'm an aspiring engineer passionate about turning ideas into working tech. Curre
 ---
 
 ### 🔧 Skills
-- C Progamming, Python, HTML, CSS
+- Java fullstack
+- HTML, CSS, JavaScript
 - Mongodb for Database
 - Figma for UI/UX design
 - Data analysis, Data Visualization, Micosoft PowerBI
