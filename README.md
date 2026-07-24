@@ -33,7 +33,7 @@ I'm an aspiring engineer passionate about turning ideas into working tech. Curre
 📱 **[Kannada Learning App](https://github.com/Sayedashams/Kannada-Learning-App)**
 - Designed responsive mobile and web UI prototypes for a Kannada learning application using Figma.
 
-☕ **[Kannada Learning App](https://github.com/Sayedashams/Coffee-Shop-Landing-Page)**
+☕ **[Coffee-Shop-Landing-Page](https://github.com/Sayedashams/Coffee-Shop-Landing-Page)**
 - Built a visually engaging coffee shop website with responsive layouts using HTML and CSS.
 
 ---
