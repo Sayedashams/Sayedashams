@@ -30,6 +30,10 @@ I'm an aspiring engineer passionate about turning ideas into working tech. Curre
 ♿ **[Voice-Controlled Wheelchair](https://github.com/Sayedashams/Voice-Controlled-Wheelchair.git)**
 - A smart wheelchair navigated by voice commands, built with Arduino, relays, and a voice module.
 
+📱 **[Kannada Learning App](https://github.com/Sayedashams/Kannada-Learning-App)**
+- Designed responsive mobile and web UI prototypes for a Kannada learning application using Figma.
+
+
 ---
 
 ### 🛠️ Tools and Technologies
