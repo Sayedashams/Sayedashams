@@ -12,6 +12,7 @@ I'm an aspiring engineer passionate about turning ideas into working tech. Curre
 - Mongodb for Database
 - Figma for UI/UX design
 - Data analysis, Data Visualization, Micosoft PowerBI
+- Business analysis, Client interaction, Requirement gathering, Documentation
 
 ---
 
